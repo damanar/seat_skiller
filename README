@@ -1,0 +1,5 @@
+This script has a hardcoded corporate ID near the EOF that must be modified
+for your corporation, or each corporation in your alliance.
+
+It will only pick up members of your corporation that have signed up in SeAT
+and logged into SeAT within the last 30 days.
