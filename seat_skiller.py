@@ -6,7 +6,7 @@ import time
 
 #api_token = "qTqCxiIfAzqRh6Co3pczDeDcIXNNDFCV"
 api_token = "gx3Qvzjamx9Hvp4qDCBywy0icsdadxKl"
-api_url_base = 'http://auth.njed-eve.com/api/'
+api_url_base = 'http://auth.njed-eve.com/api/v2/'
 headers = {'Content-Type': 'application/json/; charset=utf-8',
             'X-Token': api_token }
 output = 'char_skills.txt'
